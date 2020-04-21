@@ -32,8 +32,8 @@ int main()
 		{
 			max = arr[i];
 			cnt++;
-        }
-    }
+		}
+	}
 
 	printf("%d", cnt);
 }
