@@ -2,7 +2,6 @@
 	백준 17608	https://www.acmicpc.net/problem/17608
 	정올 3333  	http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2626&sca=90
 */
-
 #include <cstdio>
 
 int main()
